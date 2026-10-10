@@ -1,0 +1,6 @@
+{
+  "name": "ClassFlow",
+  "description": "Classroom management platform with dedicated Teacher and Student portals, real-time Seen/Unseen tracking, assignments, materials, and grading powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
